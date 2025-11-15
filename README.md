@@ -17,7 +17,7 @@ https://github.com/itstanmaymitra/second-test-backend
 ### Live Project Link
 
 ```
-https://first-test-assignment-dun.vercel.app/
+https://second-test-frontend.vercel.app/
 ```
 
 ### Version history
