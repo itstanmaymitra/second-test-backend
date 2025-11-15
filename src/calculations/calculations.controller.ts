@@ -1,7 +1,7 @@
 import { Body, Controller, Get, Post, Req, UseGuards } from '@nestjs/common';
 import { CalculationsService } from './calculations.service';
 import { CreateOperation, CreateStartNumber } from './dto/calculation.dto';
-import { JwtAuthGuard } from 'src/auth/guards/jwt.guard';
+import { JwtAuthGuard } from '../auth/guards/jwt.guard';
 
 @Controller('calculations')
 export class CalculationsController {
